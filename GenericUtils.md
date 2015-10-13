@@ -1,0 +1,1 @@
+  * Use `Err.internal(message)` instead of `assert false : message` if you want the assertion to fire even without `-ea`.
